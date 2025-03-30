@@ -25,8 +25,6 @@
 - Dropoff-Based Cab Reallocation
 - High Passenger Zones for Maximum Coverage
 - Adjust Pricing Based on Passenger Count
-- Fare Adjustments During Rush Hours
-- Implement Vendor 2’s Dynamic Pricing Model for Vendor 1
 - Optimize Route Selection to Reduce Trip Duration & Fuel Costs
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
